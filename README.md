@@ -18,7 +18,8 @@
 -Applying basic React props and structure.
 
 # Output 📷
-my-react-info-site/src/assets/ReactInfoSite.png
+![Screenshot of React Info Site](my-react-info-site/src/assets/ReactInfoSite.png)
+
 
 
 
