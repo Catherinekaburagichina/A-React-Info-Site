@@ -18,8 +18,7 @@
 -Applying basic React props and structure.
 
 # Output 📷
-![React Info Site](https://raw.githubusercontent.com/Catherinekaburagichina/A-React-Info-Site/main/src/assets/ReactInfoSite.png)
-
+my-react-info-site/src/assets/ReactInfoSite.png
 
 
 
