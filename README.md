@@ -18,6 +18,6 @@
 -Applying basic React props and structure.
 
 # Output 📷
-![Uploading image.png…]()
+![Uploading ReactInfoSite.png…]()
 
 
